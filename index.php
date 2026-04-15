@@ -928,4 +928,124 @@
 			</div>
 		</div>
 	</section>
+	<section id="expertise">
+		<div class="spacer-50"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="sup-title text-dark-blue orange-graf">
+						<p>Expertise em prol do seu negócio</p>
+					</div>
+					<div class="main-title text-dark-blue">
+						<h2>Soluções sob medida<br/>Amplo leque de serviços</h2>
+					</div>
+				</div>
+			</div>
+			<div class="spacer-40"></div>
+			<div class="row">
+				<div class="col-lg-7 d-flex flex-wrap wrapper-expertise-cards">
+					<div class="col-12 title-expertise-cards text-light-blue">
+						<p><b>Áreas de Atuação</b></p>
+					</div>
+					<div class="col-lg-4 expertise-card">
+				        <a href="#"><span></span><span class="title">Agronegócios</span></a>
+				        <a href="#"><span></span><span class="title">Ambiental</span></a>
+				        <a href="#"><span></span><span class="title">Antitruste & Concorrencial</span></a>
+				        <a href="#"><span></span><span class="title">Arte & Cultura</span></a>
+				        <a href="#"><span></span><span class="title">Aviação & Financiamento Aeronáutico</span></a>
+				        <a href="#"><span></span><span class="title">Bancário & Financeiro</span></a>
+				        <a href="#"><span></span><span class="title">Blockchain & Ativos Digitais (CryptoVA)</span></a>
+				        <a href="#"><span></span><span class="title">Cibercrimes (VA Response)</span></a>
+				        <a href="#"><span></span><span class="title">Comércio Exterior / OMC</span></a>
+				        <a href="#"><span></span><span class="title">Companhias Abertas e Governança Corporativa</span></a>
+				        <a href="#"><span></span><span class="title">Compliance & Investigações</span></a>
+				        <a href="#"><span></span><span class="title">Contratos Comerciais</span></a>
+				        <a href="#"><span></span><span class="title">Direito do Consumidor & Product Liability</span></a>
+				        <a href="#"><span></span><span class="title">Naval/Marítimo & Portuário</span></a>
+				        <a href="#"><span></span><span class="title">ESG - Ambiental, Social e Governança</span></a>
+				    </div>
+
+				    <div class="col-lg-4 expertise-card">
+				        <a href="#"><span></span><span class="title">Esportes</span></a>
+				        <a href="#"><span></span><span class="title">Fashion Law</span></a>
+				        <a href="#"><span></span><span class="title">Fundos de Investimento e Asset Management</span></a>
+				        <a href="#"><span></span><span class="title">Gerenciamento de Crise</span></a>
+				        <a href="#"><span></span><span class="title">Global Mobility</span></a>
+				        <a href="#"><span></span><span class="title">Infraestrutura & Projetos</span></a>
+				        <a href="#"><span></span><span class="title">Insolvência & Reestruturação</span></a>
+				        <a href="#"><span></span><span class="title">Jogos & Apostas</span></a>
+				        <a href="#"><span></span><span class="title">Life Sciences & Healthcare</span></a>
+				        <a href="#"><span></span><span class="title">Mercado de Capitais</span></a>
+				        <a href="#"><span></span><span class="title">Mercado Imobiliário</span></a>
+				        <a href="#"><span></span><span class="title">Mídia & Entretenimento</span></a>
+				        <a href="#"><span></span><span class="title">Mineração & Metais</span></a>
+				        <a href="#"><span></span><span class="title">Energia Elétrica</span></a>
+				        <a href="#"><span></span><span class="title">Petróleo, Gás & Biocombustíveis</span></a>
+				        <a href="#"><span></span><span class="title">Planejamento Patrimonial, Sucessório & Direito de Família</span></a>
+				    </div>
+
+				    <div class="col-lg-4 expertise-card">
+				        <a href="#"><span></span><span class="title">Private Equity</span></a>
+				        <a href="#"><span></span><span class="title">Propriedade Intelectual</span></a>
+				        <a href="#"><span></span><span class="title">Proteção de Dados & Privacidade</span></a>
+				        <a href="#"><span></span><span class="title">Resolução de Conflitos - Arbitragem</span></a>
+				        <a href="#"><span></span><span class="title">Resolução de Conflitos - Contencioso</span></a>
+				        <a href="#"><span></span><span class="title">Seguros, Resseguros & Previdência Complementar</span></a>
+				        <a href="#"><span></span><span class="title">Societário & Fusões e Aquisições</span></a>
+				        <a href="#"><span></span><span class="title">Tecnologia da Informação & Comunicações</span></a>
+				        <a href="#"><span></span><span class="title">Terceiro Setor</span></a>
+				        <a href="#"><span></span><span class="title">Trabalhista</span></a>
+				        <a href="#"><span></span><span class="title">Tributário & Aduaneiro</span></a>
+				        <a href="#"><span></span><span class="title">Venture Capital & Startups</span></a>
+				        <a href="#"><span></span><span class="title">Direito Público & Regulação</span></a>
+				        <a href="#"><span></span><span class="title">Penal Empresarial</span></a>
+				    </div>
+				</div>
+				<div class="col-lg-5 d-flex flex-wrap flex-column wrapper-expertise-cards">
+					<div class="col-12 title-expertise-cards text-light-blue">
+						<p><b>Desks</b></p>
+					</div>
+					<div class="col-12 expertise-card">
+				        <a href="#"><span></span><span class="title">China Desk</span></a>
+				    </div>
+					<div class="col-12 expertise-card">
+				        <a href="#"><span></span><span class="title">French Desk</span></a>
+				    </div>
+					<div class="col-12 expertise-card">
+				        <a href="#"><span></span><span class="title">German Desk</span></a>
+				    </div>
+				</div>
+			</div>
+		</div>
+		<div class="spacer-50"></div>
+	</section>
+	<section id="stay-in" class="bg-most-lightest-gray">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6">
+					<img src="img/img-veirano-inclusiva-2025.jpg" alt="" class="bg-image">
+				</div>
+				<div class="col-lg-4">
+					<div class="spacer-50"></div>
+					<div class="title-wrapper">
+						<div class="sup-title text-dark-blue orange-graf">
+							<p>Fique por dentro</p>
+						</div>
+						<div class="main-title text-dark-blue">
+							<h2>InclusiVA</h2>
+							<span class="subtitle text-light-blue"><em>Diversidade & Inclusão</em></span>
+						</div>
+					</div>
+					<div class="spacer-30"></div>
+					<div class="main-text text-light-gray title-light-gray">
+						<p>Pluralidade e criatividade são dois valores do Escritório que estão diretamente ligados à diversidade, tema altamente importante que passamos a trabalhar com mais foco em anos recentes.</p>
+					</div>
+					<div class="spacer-30"></div>
+					<a href="#" class="read-more-btn text-orange text-uppercase"><b>SAIBA MAIS SOBRE D&I NO VEIRANO</b></a>                    
+					<div class="spacer-200"></div>
+				</div>
+				<div class="col-lg-2"></div>
+			</div>
+		</div>
+	</section>
 <?php include('footer.php'); ?>

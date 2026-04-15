@@ -670,14 +670,11 @@ em {
 }
 .wrapper-midia-cards .midia-card .wrapper-img {
 }
-.wrapper-midia-cards .midia-card .wrapper-img a {
-}
-.wrapper-midia-cards .midia-card .wrapper-img a img {
-}
+.wrapper-midia-cards .midia-card .wrapper-img a {overflow: hidden;display: block;}
+.wrapper-midia-cards .midia-card .wrapper-img a img {transition: all ease .5s;transform: scale(1);}
 .wrapper-midia-cards .midia-card .wrapper-img a:hover {
 }
-.wrapper-midia-cards .midia-card .wrapper-img a:hover img {
-}
+.wrapper-midia-cards .midia-card .wrapper-img a:hover img {transform: scale(1.1);}
 .wrapper-midia-cards .midia-card .post-content {
 }
 .wrapper-midia-cards .midia-card .post-content .title {
@@ -710,6 +707,20 @@ em {
 }
 .wrapper-midia-cards-model-2 .midia-card-model-2 .content .post-info .date{font-size: 12px;}
 .wrapper-midia-cards-model-2 .midia-card-model-2 .content .post-info .date p {
+}
+.wrapper-expertise-cards {
+}
+.wrapper-expertise-cards .title-expertise-cards {font-family: 'Open Sans';font-size: 22px;margin-bottom: 10px;}
+.wrapper-expertise-cards .expertise-card {
+}
+.wrapper-expertise-cards .expertise-card a {color: #6f6f6f;text-decoration: none;font-family: 'Open Sans';font-weight: bold;font-size: 13px;display: block;padding: 5px 10px 5px 22px;position: relative;}
+.wrapper-expertise-cards .expertise-card a span:first-child {position: absolute;width: 15px;left: 0;top: 14px;background: #5ba0ec;height: 1px;}
+.wrapper-expertise-cards .expertise-card a span.title {
+}
+.wrapper-expertise-cards .expertise-card a:hover {color: #5ba0ec;}
+.wrapper-expertise-cards .expertise-card a:hover span:first-child {
+}
+.wrapper-expertise-cards .expertise-card a:hover span.title {
 }
 
 /* Cards */
@@ -852,6 +863,42 @@ header>div>div>div nav>.nav-selector span {margin: 0 10px;display: inline-block;
 
 /* Header */
 
+/* Footer */
+
+footer {
+}
+footer .wrapper-addresses-cards {margin-bottom: 40px;}
+footer .wrapper-addresses-cards .address-card {
+}
+footer .wrapper-addresses-cards .address-card .state {font-size: 15px;font-weight: 600;margin-bottom: 10px;}
+footer .wrapper-addresses-cards .address-card .address {font-size: 13px;line-height: 20px;}
+footer .wrapper-addresses-cards .address-card .divisor {display: block;height: 1px;width: 20px;margin: 13px 0;}
+footer .wrapper-addresses-cards .address-card .tel {font-size: 13px;font-weight: 600;text-decoration: none;}
+footer .wrapper-addresses-cards .address-card .tel:hover {
+}
+footer .wrapper-logo {
+}
+footer .wrapper-logo img {transform: translateX(25px);}
+footer .wrapper-socials {align-items: center;}
+footer .wrapper-socials a {font-size: 21px;display: block;margin: 10px 15px 0;}
+footer .wrapper-socials a i {
+}
+footer .copyright {
+}
+footer .footer-links {
+}
+footer .footer-links a {font-size: 13px;text-decoration: none;}
+footer .developed-by {
+}
+footer .developed-by>div {
+}
+footer .developed-by>div a {font-size: 13px;display: flex;align-items: center;text-decoration: none;color: #fff;}
+footer .developed-by>div a span {
+}
+footer .developed-by>div a img {display: block;width: 100px;}
+
+/* Footer */
+
 /* Home | Featured */
 
 #featured-home {
@@ -960,3 +1007,16 @@ header>div>div>div nav>.nav-selector span {margin: 0 10px;display: inline-block;
 .numbers .number p {font-size: 13px;}
 
 /* Home | Knwow the Office */
+
+#stay-in {
+}
+#stay-in>div {
+}
+#stay-in>div>div {
+}
+#stay-in>div>div>div:first-child {
+    position: relative;
+}
+#stay-in>div>div>div:first-child .bg-image {display: block;position: absolute;right: 0;transform: translateX(-50px) translateY(-50%);height: auto;top: 50%;width: 900px;object-fit: cover;}
+
+/* Home | Stay In */
