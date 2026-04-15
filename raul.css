@@ -1,7 +1,5 @@
-#team-list {}
-#team-list>div {}
-#team-list>div>div {}
-#team-list>div>div>div {}
+/* Card */
+
 .wrapper-team-cards {
     margin-bottom: 20px;
 }
@@ -47,7 +45,11 @@
     font-weight: 600;
     margin: 5px 0;
 }
-.wrapper-team-cards .team-card .post-info .location {font-size: 15px;font-weight: 600;margin: 5px 0;}
+.wrapper-team-cards .team-card .post-info .location {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 5px 0;
+}
 .wrapper-team-cards .team-card .post-info .location i {
     color: #f55000;
 }
@@ -91,3 +93,424 @@
     background-color: #002878;
     color: #6f6f6f;
 }
+
+/* Default */
+
+.list-unstyled {
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.list-unstyled li {
+    position: relative;
+    padding-left: 12px;
+}
+.list-unstyled li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 11px; 
+    width: 5px; 
+    height: 1px; 
+    background-color: #4a90e2;
+}
+.icon-bracket {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 0 2px; 
+    margin-right: 6px; 
+    height: 13px;
+}
+.icon-bracket::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px; 
+    border: 1.5px solid currentColor; 
+    border-right: none; 
+}
+.icon-bracket::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    border: 1.5px solid currentColor;
+    border-left: none;
+}
+.icon-bracket .bi-dash {
+    font-size: 18px; 
+    line-height: 1;
+    display: flex;
+}
+.sidebar-right {
+    padding-left: 15px;
+}
+.sidebar-right .action-links {
+    gap: 8px;
+    margin-bottom: 49px;
+}
+.sidebar-right .action-links a {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.sidebar-right .action-links a:hover{
+    color: #5aa0eb !important;
+}
+.sidebar-right .action-links a .icon-bracket {
+    color: #5aa0eb;
+}
+.sidebar-right .expertise-block {
+    margin-bottom: 40px;
+}
+.sidebar-right .expertise-block h3,
+.sidebar-right .sidebar-title {
+    font-size: 28px;
+    font-weight: 600;
+}
+.sidebar-right .sidebar-title span {
+    font-size: 24px;
+    margin-right: 5px;
+}
+.sidebar-right .expertise-block .sidebar-subtitle {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.sidebar-right .expertise-block ul li {
+    margin-bottom: 0;
+}
+.sidebar-right .media-block {
+    margin-bottom: 40px;
+}
+.sidebar-right .media-block .sidebar-title {
+    margin-bottom: 20px;
+}
+.sidebar-right .media-block .media-item .media-title {
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.4s;
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 0px;
+    display: block;
+    padding-bottom: 5px;
+}
+.sidebar-right .media-block .media-item .media-title:hover {
+    color: #f55000 !important;
+}
+.sidebar-right .media-block .media-item .media-meta {
+    margin-bottom: 30px;
+}
+.sidebar-right .media-block .media-item .media-meta span {
+    font-size: 11px;
+    font-weight: 600;
+}
+.sidebar-right .media-block .read-all {
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: color 0.2s;
+    display: inline-block;
+    margin-top: 20px;
+}
+.sidebar-right .media-block .read-all:hover {
+    color: #002878 !important;
+}
+
+
+/* Single Profissional */
+
+#professional-profile {}
+#professional-profile>div {}
+#professional-profile>div>div {}
+#professional-profile>div>div .profile-sidebar-left .profile-img-wrapper {
+    position: relative;
+    display: block;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-img-wrapper img {
+    width: auto;
+    display: block;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-img-wrapper .vcard-btn {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 15px;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-info-block {
+    margin: 15px 0;
+    padding: 0 0 0 20px;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-info-block .title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-info-block p {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 5px 0;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-info-block .email {
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+}
+#professional-profile>div>div .profile-sidebar-left .profile-info-block ul li {
+    font-weight: 600;
+    padding-left: 6px;
+    margin-bottom: 5px;
+}
+#professional-profile>div>div .profile-main-content {}
+#professional-profile>div>div .profile-main-content  .position {
+    font-size: 13px;
+    font-weight: 500;
+}
+#professional-profile>div>div .profile-main-content .title {
+    font-size: 34px;
+    padding-bottom: 15px;
+    position: relative;
+}
+#professional-profile>div>div .profile-main-content .title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 20px;
+    height: 2px;
+    background: #f55000;
+    left: 0;
+}
+#professional-profile>div>div .profile-main-content .professional-bio {
+    margin: 20px 0;
+    padding: 0 20px 0 0;
+}
+#professional-profile>div>div .profile-main-content .professional-bio p {
+    font-size: 13px;
+    margin-bottom: 15px;
+    line-height: 22px;
+}
+#professional-profile>div>div .profile-main-content .profile-main-content-box {
+    margin-bottom: 30px;
+}
+#professional-profile>div>div .profile-main-content .profile-main-content-box .section-title {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+#professional-profile>div>div .profile-main-content .profile-main-content-box .list-unstyled li {
+    padding-left: 15px;
+}
+#professional-profile>div>div .profile-main-content .profile-main-content-box .list-unstyled li::before {
+    width: 10px;
+    height: 2px;
+}
+
+/* Single Profissionais */
+
+/* Single Expertise */
+
+#expertise-content {
+    padding: 60px 0;
+}
+#expertise-content>div {}
+#expertise-content>div>div {}
+#expertise-content>div>div>div {}
+#expertise-content>div>div>div .expertise-info {}
+#expertise-content>div>div>div .expertise-info .title {
+    font-size: 34px;  
+    margin-bottom: 25px; 
+    position: relative;
+    padding-bottom: 15px;
+}
+#expertise-content>div>div>div .expertise-info .title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 20px;
+    height: 2px;
+    background: #f55000;
+    left: 0;
+}
+#expertise-content>div>div>div .expertise-info .expertise-box-text {
+    margin-bottom: 30px;
+}
+#expertise-content>div>div>div .expertise-info .expertise-box-text p {
+    font-size: 15px;
+    line-height: 1.8; 
+    font-weight: 600;
+}
+#expertise-content>div>div>div .expertise-info img {
+    width: 100%; 
+    height: auto;
+    display: block;
+    margin-bottom: 40px;
+}
+#expertise-content>div>div>div .expertise-info .expertise-box-descricao {
+    margin-bottom: 30px;
+}
+#expertise-content>div>div>div .expertise-info .expertise-box-descricao p {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+#expertise-content>div>div .expertise-info .expertise-box-descricao ul {
+    padding-left: 20px;
+}
+#expertise-content>div>div .expertise-info .expertise-box-descricao ul li {
+    
+}
+#expertise-content>div>div .expertise-info .expertise-box-descricao ul li::before {
+    width: 10px; 
+}
+#expertise-content>div>div .sidebar-right {}
+#expertise-content>div>div .sidebar-right .expertise-block {}
+#expertise-content>div>div .sidebar-right .expertise-block .sidebar-title {}
+#expertise-content>div>div .sidebar-right .expertise-block ul {}
+#expertise-content>div>div .sidebar-right .expertise-block ul li {}
+#expertise-content>div>div .sidebar-right .expertise-block ul li a {
+    font-size: 14px;
+    color: #6f6f6f;
+    text-decoration: none;
+}
+#expertise-content>div>div .sidebar-right .expertise-block ul li a:hover {
+    color: #5aa0eb;
+}
+#expertise-content>div>div .sidebar-right .expertise-block a {
+    text-decoration: none;
+}
+#expertise-content>div>div>div .expertise-info .expertise-quote-box {
+    padding: 30px;
+    margin-top: 40px;
+}
+#expertise-content>div>div>div .expertise-info .expertise-quote-box .quote-text {
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+#expertise-content>div>div>div .expertise-info .expertise-quote-box .quote-author {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+#expertise-content>div>div>div .expertise-info .expertise-quote-box .quote-desc {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 0;
+}
+
+/* Single Expertise */
+
+/* Contato */
+
+#contact-page {}
+#contact-page>div {}
+#contact-page>div>div {}
+#contact-page>div>div>div {}
+#contact-page>div>div>div .contact-info {}
+#contact-page>div>div>div .contact-info .title {
+    font-size: 34px; 
+    margin-bottom: 25px; 
+    position: relative;
+    padding-bottom: 15px;
+}
+#contact-page>div>div>div .contact-info .title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 20px;
+    height: 2px;
+    background: #f55000;
+    left: 0;
+}
+#contact-page>div>div>div .contact-info .contact-box-text {}
+#contact-page>div>div>div .contact-info .contact-box-text p {
+    font-size: 15px;
+    line-height: 1.8;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+#contact-page>div>div>div .contact-info .contact-box-descricao {
+    margin-bottom: 30px;
+}
+#contact-page>div>div>div .contact-info .contact-box-descricao p {
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+#contact-page>div>div>div .contact-info .contact-box-descricao p a {
+    text-decoration: none;
+}
+#contact-page>div>div>div .contact-info .contact-box-descricao p a span{
+    font-weight: 700;
+}
+#contact-page>div>div>div .contact-info .contact-box-descricao p a:hover span {
+    color:#f55000 !important;
+}
+#contact-page>div>div>div .contact-form {}
+#contact-page>div>div>div .contact-form .custom-input {
+    background-color: #eaf3fa; 
+    border: 1px solid transparent; 
+    border-radius: 6px;
+    padding: 14px 20px;
+    font-size: 15px;
+    color: #002878; 
+    box-shadow: none; 
+    transition: all 0.3s ease;
+}
+#contact-page>div>div>div .contact-form .custom-input::placeholder {
+    color: #002878;
+    opacity: 0.9;
+}
+#contact-page>div>div>div .contact-form .custom-input:focus {
+    background-color: #e8f3ff;
+    border-color: #5aa0eb; 
+    outline: 0; 
+}
+#contact-page>div>div>div .contact-form textarea.custom-input {
+    resize: vertical;
+    min-height: 150px;
+}
+
+#contact-page>div>div>div .contact-form .custom-select {
+    appearance: none;
+    background-repeat: no-repeat;
+    background-position: right 20px center;
+    background-size: 16px;
+    cursor: pointer;
+}
+
+/* Contato */
+
+/* Single Midia */
+
+#single-article {}
+#single-article>div {}
+#single-article>div>div {}
+#single-article>div>div>div {}
+#single-article>div>div>div .article-header {}
+#single-article>div>div>div .article-header .title {
+    font-size: 32px;
+}
+#single-article>div>div>div .article-header .post-meta {}
+#single-article>div>div>div .article-header .post-meta .category {font-size: 13px;font-weight: 500;}
+#single-article>div>div>div .article-header .post-meta .date {
+    font-size: 11px;
+}
+#single-article>div>div>div .article-header .lead-text {
+    font-size: 13px;
+}
+#single-article>div>div>div .article-content {}
+#single-article>div>div>div .article-content p {
+    font-size: 11px;
+}
+/* Single Midia */

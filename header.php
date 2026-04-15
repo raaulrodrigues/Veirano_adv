@@ -93,7 +93,7 @@
                                 </ul>
                             </li>
                             <li class="has-submenu">
-                                <a href="#">Contato <i class="bi bi-caret-down-fill"></i></a>
+                                <a href="page-contato.php">Contato <i class="bi bi-caret-down-fill"></i></a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="#">Fale Conosco</a>

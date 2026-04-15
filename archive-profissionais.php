@@ -137,12 +137,12 @@
 			<div class="row wrapper-team-cards">
 				<div class="col-lg-6 team-card">
 					<div class="wrapper-img">
-						<a href="#">
+						<a href="single-profissionais.php">
 							<img src="img/profissional-adriana-fernandes.jpg" alt="" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-info">
-						<a class="title text-dark-blue text-hover-orange font-merriweather" href="#">Adriana Fernandes Rollo</a>
+						<a class="title text-dark-blue text-hover-orange font-merriweather" href="single-profissionais.php">Adriana Fernandes Rollo</a>
 						<p class="position text-light-blue text-uppercase font-open-sans">Sócia</p>
 						<p class="location text-light-gray font-open-sans">
 							<i class="bi bi-geo-alt-fill"></i>
@@ -157,12 +157,12 @@
 				</div>
 				<div class="col-lg-6 team-card">
 					<div class="wrapper-img">
-						<a href="#">
+						<a href="single-profissionais.php">
 							<img src="img/profissional-alberto-braganca.jpg" alt="" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-info">
-						<a class="title text-dark-blue text-hover-orange font-merriweather" href="#">Alberto de Orleans e Bragança</a>
+						<a class="title text-dark-blue text-hover-orange font-merriweather" href="single-profissionais.php">Alberto de Orleans e Bragança</a>
 						<p class="position text-light-blue text-uppercase font-open-sans">Sócio</p>
 						<p class="location text-light-gray font-open-sans">
 							<i class="bi bi-geo-alt-fill"></i>
@@ -177,12 +177,12 @@
 				</div>
 				<div class="col-lg-6 team-card">
 					<div class="wrapper-img">
-						<a href="#">
+						<a href="single-profissionais.php">
 							<img src="img/profissional-adriana-fernandes.jpg" alt="" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-info">
-						<a class="title text-dark-blue text-hover-orange font-merriweather" href="#">Alberto Monteiro</a>
+						<a class="title text-dark-blue text-hover-orange font-merriweather" href="single-profissionais.php">Alberto Monteiro</a>
 						<p class="position text-light-blue text-uppercase font-open-sans">Sócio</p>
 						<p class="location text-light-gray font-open-sans">
 							<i class="bi bi-geo-alt-fill"></i>
@@ -197,12 +197,12 @@
 				</div>
 				<div class="col-lg-6 team-card">
 					<div class="wrapper-img">
-						<a href="#">
+						<a href="single-profissionais.php">
 							<img src="img/profissional-alberto-braganca.jpg" alt="" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-info">
-						<a class="title text-dark-blue text-hover-orange font-merriweather" href="#">Alex Backsmann</a>
+						<a class="title text-dark-blue text-hover-orange font-merriweather" href="single-profissionais.php">Alex Backsmann</a>
 						<p class="position text-light-blue text-uppercase font-open-sans">Sócio</p>
 						<p class="location text-light-gray font-open-sans">
 							<i class="bi bi-geo-alt-fill"></i>
@@ -217,12 +217,12 @@
 				</div>
 				<div class="col-lg-6 team-card">
 					<div class="wrapper-img">
-						<a href="#">
+						<a href="single-profissionais.php">
 							<img src="img/profissional-adriana-fernandes.jpg" alt="" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-info">
-						<a class="title text-dark-blue text-hover-orange font-merriweather" href="#">Alexandre Verri</a>
+						<a class="title text-dark-blue text-hover-orange font-merriweather" href="single-profissionais.php">Alexandre Verri</a>
 						<p class="position text-light-blue text-uppercase font-open-sans">Sócio</p>
 						<p class="location text-light-gray font-open-sans">
 							<i class="bi bi-geo-alt-fill"></i>
@@ -237,12 +237,12 @@
 				</div>
 				<div class="col-lg-6 team-card">
 					<div class="wrapper-img">
-						<a href="#">
+						<a href="single-profissionais.php">
 							<img src="img/profissional-alberto-braganca.jpg" alt="" class="img-fluid">
 						</a>
 					</div>
 					<div class="post-info">
-						<a class="title text-dark-blue text-hover-orange font-merriweather" href="#">Ali El Hage Filho</a>
+						<a class="title text-dark-blue text-hover-orange font-merriweather" href="single-profissionais.php">Ali El Hage Filho</a>
 						<p class="position text-light-blue text-uppercase font-open-sans">Sócio</p>
 						<p class="location text-light-gray font-open-sans">
 							<i class="bi bi-geo-alt-fill"></i>

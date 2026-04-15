@@ -123,13 +123,13 @@
 						<div class="d-flex flex-wrap wrapper-midia-cards">
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -147,13 +147,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -171,13 +171,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -195,13 +195,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -219,13 +219,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -243,13 +243,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -273,13 +273,13 @@
 						<div class="d-flex flex-wrap wrapper-midia-cards">
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -297,13 +297,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -321,13 +321,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -345,13 +345,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -369,13 +369,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
@@ -393,13 +393,13 @@
 							</div>
 							<div class="midia-card col-lg-4 ps-2 pe-2">
 								<div class="wrapper-img">
-									<a href="#">
+									<a href="single-midia.php">
 										<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 									</a>
 								</div>
 								<div class="post-content">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
+										<a class="text-dark-blue" href="single-midia.php">Diretriz aprovada no CNPE pode enterrar metade dos projetos de eólicas offshore no Nordeste</a>
 									</div>
 									<div class="post-info">
 										<div class="categories text-light-blue text-uppercase">
