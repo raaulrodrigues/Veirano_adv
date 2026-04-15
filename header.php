@@ -42,53 +42,53 @@
     							<a href="archive-profissionais.php">Profissionais</a>
     						</li>
     						<li>
-    							<a href="#">Expertise</a>
+    							<a href="archive-expertise.php">Expertise</a>
     						</li>
     						<li class="has-submenu">
-    							<a href="#">Escritório <i class="bi bi-caret-down-fill"></i></a>
+    							<a href="page-escritorio.php">Escritório <i class="bi bi-caret-down-fill"></i></a>
     							<ul class="submenu">
     								<li>
-    									<a href="#">Apresentação</a>
+    									<a href="page-escritorio.php">Apresentação</a>
     								</li>
     								<li>
-    									<a href="#">Nossa Cultura</a>
+    									<a href="page-escritorio.php">Nossa Cultura</a>
     								</li>
     								<li>
-    									<a href="#">Nossa Conduta</a>
+    									<a href="page-escritorio.php">Nossa Conduta</a>
     								</li>
     								<li>
-    									<a href="#">ESG</a>
+    									<a href="page-escritorio.php">ESG</a>
     									<ul class="submenu">
     										<li>
-            									<a href="#">Diversidade & Inclusão</a>
+            									<a href="page-escritorio.php">Diversidade & Inclusão</a>
             								</li>
             								<li>
-            									<a href="#">Responsabilidade Social</a>
+            									<a href="page-escritorio.php">Responsabilidade Social</a>
             								</li>
             								<li>
-            									<a href="#">Transparência</a>
+            									<a href="page-escritorio.php">Transparência</a>
             								</li>
     									</ul>
     								</li>
     								<li>
-    									<a href="#">Prêmios & Reconhecimentos</a>
+    									<a href="page-escritorio.php">Prêmios & Reconhecimentos</a>
     								</li>
     								<li>
-    									<a href="#">Alianças & Parceiros</a>
+    									<a href="page-escritorio.php">Alianças & Parceiros</a>
     								</li>
     							</ul>
     						</li>
                             <li class="has-submenu">
-                                <a href="#">Carreira <i class="bi bi-caret-down-fill"></i></a>
+                                <a href="page-carreira.php">Carreira <i class="bi bi-caret-down-fill"></i></a>
                                 <ul class="submenu">
                                     <li>
-                                        <a href="#">Sua Carreira no Veirano</a>
+                                        <a href="page-carreira.php">Sua Carreira no Veirano</a>
                                     </li>
                                     <li>
-                                        <a href="#">Programa Start_</a>
+                                        <a href="page-carreira.php">Programa Start_</a>
                                     </li>
                                     <li>
-                                        <a href="#">Oportunidades</a>
+                                        <a href="page-carreira.php">Oportunidades</a>
                                     </li>
                                 </ul>
                             </li>

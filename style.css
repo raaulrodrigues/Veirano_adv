@@ -247,7 +247,7 @@ i,
 em {
     font-style: italic;
 }
-.main-text {font-size: 13px;font-weight: 400;line-height: 20px;}
+.main-text {font-size: 13px;font-weight: 400;line-height: 23px;}
 .main-text iframe {
     display: block;
     width: 100%;
@@ -260,22 +260,22 @@ em {
     font-size: 35px;
 }
 .main-text h1 {
-    font-size: 50px;
+    font-size: 28px;
 }
 .main-text h2 {
-    font-size: 40px;
+    font-size: 26px;
 }
 .main-text h3 {
-    font-size: 35px;
+    font-size: 24px;
 }
 .main-text h4 {
-    font-size: 30px;
+    font-size: 22px;
 }
 .main-text h5 {
-    font-size: 25px;
+    font-size: 20px;
 }
 .main-text h6 {
-    font-size: 20px;
+    font-size: 18px;
 }
 .main-text h1,
 .main-text h2,
@@ -283,6 +283,7 @@ em {
 .main-text h4,
 .main-text h5,
 .main-text h6 {
+    margin: 30px 0;
 }
 .main-text a {
 }
@@ -1051,3 +1052,33 @@ footer .developed-by>div a img {display: block;width: 100px;}
 #stay-in>div>div>div:first-child .bg-image {display: block;position: absolute;right: 0;transform: translateX(-50px) translateY(-50%);height: auto;top: 50%;width: 900px;object-fit: cover;}
 
 /* Home | Stay In */
+
+/* Main Page */
+
+#page-content {
+}
+#page-content>div {
+}
+#page-content>div>div {
+}
+#page-content>div>div>div {
+}
+#page-content>div>div>div .wrapper-title {margin-bottom: 30px;}
+#page-content>div>div>div .wrapper-title .title-page {font-size: 30px;padding-bottom: 20px;margin-bottom: 20px;position: relative;}
+#page-content>div>div>div .wrapper-title .title-page::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 20px;
+    height: 3px;
+    background: #f55000;
+}
+#page-content>div>div>div .wrapper-title .subtitle-page-page {
+}
+#page-content>div>div>div .main-text {
+}
+#page-content>div>div>div .main-text b {
+    color: #5aa0eb !important;
+}
+
+/* Main Page */

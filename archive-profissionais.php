@@ -122,7 +122,7 @@
 							<button class="search">
 								<i class="bi bi-search"></i>
 							</button>
-							<a href="#" class="clear">
+							<a href="archive-profissionais.php" class="clear">
 								<i class="bi bi-trash3-fill"></i>
 							</a>
 						</div>
