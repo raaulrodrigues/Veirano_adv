@@ -140,43 +140,43 @@
 				<div class="col-lg-8">
 					<div class="wrapper-categories">
 						<div class="categories">
-							<a href="#">Sócios</a>
-							<a href="#">Consultores</a>
-							<a href="#">Associados</a>
-							<a href="#">Advogados</a>
-							<a href="#">Gestão</a>
+							<a href="archive-profissionais.php">Sócios</a>
+							<a href="archive-profissionais.php">Consultores</a>
+							<a href="archive-profissionais.php">Associados</a>
+							<a href="archive-profissionais.php">Advogados</a>
+							<a href="archive-profissionais.php">Gestão</a>
 						</div>
-						<a href="#">Ver Todos</a>
+						<a href="archive-profissionais.php">Ver Todos</a>
 					</div>
 					<div class="letter-filter d-flex text-uppercase">
-						<a href="#">a</a>
-						<a href="#">b</a>
-						<a href="#">c</a>
-						<a href="#">d</a>
-						<a href="#">e</a>
-						<a href="#">f</a>
-						<a href="#">g</a>
-						<a href="#">h</a>
-						<a href="#">i</a>
-						<a href="#">j</a>
-						<a href="#">k</a>
-						<a href="#">l</a>
-						<a href="#">m</a>
-						<a href="#">n</a>
-						<a href="#">o</a>
-						<a href="#">p</a>
-						<a href="#">q</a>
-						<a href="#">r</a>
-						<a href="#">s</a>
-						<a href="#">t</a>
-						<a href="#">u</a>
-						<a href="#">v</a>
-						<a href="#">w</a>
-						<a href="#">x</a>
-						<a href="#">y</a>
-						<a href="#">z</a>
+						<a href="archive-profissionais.php">a</a>
+						<a href="archive-profissionais.php">b</a>
+						<a href="archive-profissionais.php">c</a>
+						<a href="archive-profissionais.php">d</a>
+						<a href="archive-profissionais.php">e</a>
+						<a href="archive-profissionais.php">f</a>
+						<a href="archive-profissionais.php">g</a>
+						<a href="archive-profissionais.php">h</a>
+						<a href="archive-profissionais.php">i</a>
+						<a href="archive-profissionais.php">j</a>
+						<a href="archive-profissionais.php">k</a>
+						<a href="archive-profissionais.php">l</a>
+						<a href="archive-profissionais.php">m</a>
+						<a href="archive-profissionais.php">n</a>
+						<a href="archive-profissionais.php">o</a>
+						<a href="archive-profissionais.php">p</a>
+						<a href="archive-profissionais.php">q</a>
+						<a href="archive-profissionais.php">r</a>
+						<a href="archive-profissionais.php">s</a>
+						<a href="archive-profissionais.php">t</a>
+						<a href="archive-profissionais.php">u</a>
+						<a href="archive-profissionais.php">v</a>
+						<a href="archive-profissionais.php">w</a>
+						<a href="archive-profissionais.php">x</a>
+						<a href="archive-profissionais.php">y</a>
+						<a href="archive-profissionais.php">z</a>
 					</div>
-					<form action="#" class="d-flex form-filters">
+					<form action="archive-profissionais.php" class="d-flex form-filters">
 						<div class="col-lg">
 							<input type="text" placeholder="Profissional">
 						</div>
@@ -243,7 +243,7 @@
 						<button class="nav-link text-light-gray text-hover-light-blue text-uppercase" data-bs-toggle="tab" data-bs-target="#tab-5" type="button" role="tab" aria-controls="tab-5" aria-selected="false">Multimidia</button>
 					</li>
 					<li class="nav-item" role="presentation">
-						<button onclick="window.location.href='#'" class="nav-link text-light-gray text-hover-light-blue text-uppercase">Todos</button>
+						<button onclick="window.location.href='archive-midia.php'" class="nav-link text-light-gray text-hover-light-blue text-uppercase">Todos</button>
 					</li>
 				</ul>
 				<div class="tab-content">
@@ -879,7 +879,7 @@
 						<p>Regularmente enviamos comunicados com as últimas novidades jurídicas e de negócios, tais como client alerts, newsletters e outras comunicações oportunas. Caso você tenha interesse, o processo de cadastro é rápido e permite que você escolha os tópicos mais relevantes ao seu dia a dia.</p>
 					</div>
 					<div class="spacer-30"></div>
-					<a href="#" class="read-more-btn text-orange text-uppercase">Cadastre-se</a>
+					<a target="_blank" href="https://www.veirano.com.br/Go/Concep.htm" class="read-more-btn text-orange text-uppercase">Cadastre-se</a>
 				</div>
 			</div>
 		</div>

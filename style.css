@@ -643,7 +643,9 @@ em {
 .team-search-box .form-filters>div {
 }
 .team-search-box .form-filters>div input {border: none;height: 40px;line-height: 40px;padding: 0 .5em;font-size: 12px !important;background: #fff;color: #6f6f6f !important;font-family: "Open Sans";font-weight: 600;border-radius: 5px !important;}
+.team-search-box .form-filters.white-background>div input {background: #f4f4f4;}
 .team-search-box .form-filters>div select {border: none;height: 40px;line-height: 40px;padding: 0 .5em;font-size: 12px !important;background: #fff;color: #6f6f6f !important;font-family: "Open Sans";font-weight: 600;border-radius: 5px !important;width: 100%;appearance: none;}
+.team-search-box .form-filters.white-background>div select {background: #f4f4f4;}
 .team-search-box .form-filters>div .search {background: none;border: none;color: #fff;font-size: 25px;display: flex;align-items:  center;justify-content: center;margin: 0 10px;}
 .team-search-box .form-filters>div .search i {
 }
@@ -658,6 +660,34 @@ em {
 }
 .team-search-box .form-filters>div .clear:hover i {
 }
+#featured-page {height: 360px;overflow: hidden;background-repeat: no-repeat;background-position: center;background-size: cover;}
+#featured-page>div {height: 100%;}
+#featured-page>div>div {height: 100%;align-items: flex-end;}
+#featured-page>div>div>div {
+}
+#featured-page>div>div>div .page-title {padding-bottom: 40px;font-size: 60px;}
+#featured-page>div>div>div .page-title h1 {display: flex;}
+#featured-page>div>div>div .page-title h1 img {display: block;width: 30px;margin-right: 10px;}
+#featured-page>div>div>div .page-title h1 span {
+}
+#breadcrumbs {padding: 10px 0px;}
+#breadcrumbs>div {
+}
+#breadcrumbs>div>div {
+}
+#breadcrumbs>div>div>div {
+}
+#breadcrumbs>div>div>div .bradcrumb {font-size: 12px;color: #969696;}
+#breadcrumbs>div>div>div .bradcrumb span {}
+#breadcrumbs>div>div>div .bradcrumb a {color: #4e4e4e;text-decoration: none;}
+#breadcrumbs>div>div>div .bradcrumb .current {color: #76aaf3;font-weight: bold;}
+#breadcrumbs>div>div>div .share {font-size: 12px;color: #6f6f6f;}
+#breadcrumbs>div>div>div .share a {font-size: 18px;margin-left: 10px;color: #6f6f6f;}
+#breadcrumbs>div>div>div .share a i {
+}
+#breadcrumbs>div>div>div .share a:hover {color: #f65000;}
+#breadcrumbs>div>div>div .share a:hover i {
+}
 
 /* Globals */
 
@@ -667,6 +697,7 @@ em {
 }
 .wrapper-midia-cards .midia-card {
     font-family: 'Open Sans';
+    margin-bottom: 30px;
 }
 .wrapper-midia-cards .midia-card .wrapper-img {
 }

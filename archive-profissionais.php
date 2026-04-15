@@ -1,4 +1,136 @@
 <?php include('header.php'); ?>
+	<section style="background-image: url(img/featured-midia.jpg);" id="featured-page">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="page-title font-merriweather text-white">
+						<h1>
+							<img src="img/icon-page-title.svg" alt="" class="img-fluid">
+							<span>Profissionais</span>
+						</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="breadcrumbs" class="bg-most-lightest-gray font-open-sans">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9">
+					<div class="bradcrumb">
+						<span>Você está em ></span>
+						<a href="index.php"><b>Home</b></a>
+						<span>></span>
+						<span class="current">Profissionais</span>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<div class="share d-flex justify-content-end align-items-center">
+						<span>Compartilhe</span>
+						<a href="#">
+							<i class="bi bi-linkedin"></i>
+						</a>
+						<a href="#">
+							<i class="bi bi-instagram"></i>
+						</a>
+						<a href="#">
+							<i class="bi bi-whatsapp"></i>
+						</a>
+						<a href="#">
+							<i class="bi bi-envelope"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="team-filter" class="bg-gradient-blue">
+		<div class="container">
+			<div class="row team-search-box font-open-sans">
+				<div class="col-lg-4">
+					<div class="sup-title text-white orange-graf">
+						<p>Conheça o Time Veirano</p>
+					</div>
+					<div class="main-title text-white">
+						<h2>Pesquise nossos profissionais</h2>
+					</div>
+				</div>
+				<div class="col-lg-8">
+					<div class="wrapper-categories">
+						<div class="categories">
+							<a href="archive-profissionais.php">Sócios</a>
+							<a href="archive-profissionais.php">Consultores</a>
+							<a href="archive-profissionais.php">Associados</a>
+							<a href="archive-profissionais.php">Advogados</a>
+							<a href="archive-profissionais.php">Gestão</a>
+						</div>
+						<a href="archive-profissionais.php">Ver Todos</a>
+					</div>
+					<div class="letter-filter d-flex text-uppercase">
+						<a href="archive-profissionais.php">a</a>
+						<a href="archive-profissionais.php">b</a>
+						<a href="archive-profissionais.php">c</a>
+						<a href="archive-profissionais.php">d</a>
+						<a href="archive-profissionais.php">e</a>
+						<a href="archive-profissionais.php">f</a>
+						<a href="archive-profissionais.php">g</a>
+						<a href="archive-profissionais.php">h</a>
+						<a href="archive-profissionais.php">i</a>
+						<a href="archive-profissionais.php">j</a>
+						<a href="archive-profissionais.php">k</a>
+						<a href="archive-profissionais.php">l</a>
+						<a href="archive-profissionais.php">m</a>
+						<a href="archive-profissionais.php">n</a>
+						<a href="archive-profissionais.php">o</a>
+						<a href="archive-profissionais.php">p</a>
+						<a href="archive-profissionais.php">q</a>
+						<a href="archive-profissionais.php">r</a>
+						<a href="archive-profissionais.php">s</a>
+						<a href="archive-profissionais.php">t</a>
+						<a href="archive-profissionais.php">u</a>
+						<a href="archive-profissionais.php">v</a>
+						<a href="archive-profissionais.php">w</a>
+						<a href="archive-profissionais.php">x</a>
+						<a href="archive-profissionais.php">y</a>
+						<a href="archive-profissionais.php">z</a>
+					</div>
+					<form action="archive-profissionais.php" class="d-flex form-filters">
+						<div class="col-lg">
+							<input type="text" placeholder="Profissional">
+						</div>
+						<div class="col-lg">
+							<select name="cargo">
+								<option selected disabled value="">Cargo</option>
+							</select>
+						</div>
+						<div class="col-lg">
+							<select name="area">
+								<option selected disabled value="">Área</option>
+							</select>
+						</div>
+						<div class="col-lg">
+							<select name="idioma">
+								<option selected disabled value="">Idioma</option>
+							</select>
+						</div>
+						<div class="col-lg">
+							<select name="unidade">
+								<option selected disabled value="">Unidade</option>
+							</select>
+						</div>
+						<div class="col-auto d-flex">
+							<button class="search">
+								<i class="bi bi-search"></i>
+							</button>
+							<a href="#" class="clear">
+								<i class="bi bi-trash3-fill"></i>
+							</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section id="team-list">
 		<div class="container">
 			<div class="spacer-60"></div>

@@ -12,7 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet">
     <!-- Fonts -->
     <link rel="stylesheet" href="style.css"/>
-    <link rel="stylesheet" href="raul.css"/>
+    <link rel="stylesheet" href="raul.css?3"/>
     <link rel="stylesheet" href="css/responsive.css"/>
     
     <link rel="shortcut icon" href="img/favicon.ico" type="image/vnd.microsoft.icon" id="favicon">
@@ -36,10 +36,10 @@
     							<a href="index.php">Home</a>
     						</li>
     						<li>
-    							<a href="#">Mídia</a>
+    							<a href="archive-midia.php">Mídia</a>
     						</li>
     						<li>
-    							<a href="#">Profissionais</a>
+    							<a href="archive-profissionais.php">Profissionais</a>
     						</li>
     						<li>
     							<a href="#">Expertise</a>
