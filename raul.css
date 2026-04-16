@@ -32,7 +32,7 @@
     justify-content: center;
     position: relative;
     border: 1px solid #f5f5f5;
-    border-left: 5px solid #002878;
+    border-left: 5px solid #00629b;
     background-color: transparent;
 }
 .wrapper-team-cards .team-card .post-info .title {
@@ -90,8 +90,6 @@
     line-height: 1;
 }
 .wrapper-team-cards .team-card .post-info .plus-link:hover {
-    background-color: #002878;
-    color: #6f6f6f;
 }
 
 /* Default */
@@ -186,6 +184,9 @@
 }
 .sidebar-right .expertise-block ul li {
     margin-bottom: 0;
+}
+.sidebar-right .expertise-block ul li a {
+    text-decoration: none;
 }
 .sidebar-right .media-block {
     margin-bottom: 40px;

@@ -394,6 +394,9 @@ em {
 .text-lightest-blue {
     color: #e8f3ff !important;
 }
+.text-petrol-blue {
+    color: #00629b !important;
+}
 .text-orange {
     color: #f55000 !important;
 }
@@ -421,6 +424,9 @@ em {
 }
 .text-hover-lightest-blue:hover {
     color: #e8f3ff !important;
+}
+.text-hover-petrol-blue:hover {
+    color: #00629b !important;
 }
 .text-hover-orange:hover {
     color: #f55000 !important;
@@ -450,6 +456,9 @@ em {
 .bg-lightest-blue {
     background-color: #e8f3ff;
 }
+.bg-petrol-blue {
+    background-color: #00629b;
+}
 .bg-orange {
     background-color: #f55000;
 }
@@ -467,31 +476,34 @@ em {
 }
 
 .bg-hover-black:hover {
-    background-color: #000000;
+    background-color: #000000 !important;
 }
 .bg-hover-white:hover {
-    background-color: #ffffff;
+    background-color: #ffffff !important;
 }
 .bg-hover-dark-blue:hover {
-    background-color: #002878;
+    background-color: #002878 !important;
 }
 .bg-hover-light-blue:hover {
-    background-color: #5aa0eb;
+    background-color: #5aa0eb !important;
 }
 .bg-hover-lightest-blue:hover {
-    background-color: #e8f3ff;
+    background-color: #e8f3ff !important;
+}
+.bg-hover-petrol-blue:hover {
+    background-color: #00629b !important;
 }
 .bg-hover-orange:hover {
-    background-color: #f55000;
+    background-color: #f55000 !important;
 }
 .bg-hover-light-gray:hover {
-    background-color: #6f6f6f;
+    background-color: #6f6f6f !important;
 }
 .bg-hover-lightest-gray:hover {
-    background-color: #a0a0a0;
+    background-color: #a0a0a0 !important;
 }
 .bg-hover-most-lightest-gray:hover {
-    background-color: #fbfbfb;
+    background-color: #fbfbfb !important;
 }
 
 .title-black h1,
@@ -533,6 +545,22 @@ em {
 .title-lightest-blue h5,
 .title-lightest-blue h6 {
     color: #e8f3ff;
+}
+.title-lightest-blue h1,
+.title-lightest-blue h2,
+.title-lightest-blue h3,
+.title-lightest-blue h4,
+.title-lightest-blue h5,
+.title-lightest-blue h6 {
+    color: #e8f3ff;
+}
+.title-petrol-blue h1,
+.title-petrol-blue h2,
+.title-petrol-blue h3,
+.title-petrol-blue h4,
+.title-petrol-blue h5,
+.title-petrol-blue h6 {
+    color: #00629b;
 }
 .title-orange h1,
 .title-orange h2,

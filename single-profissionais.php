@@ -1,5 +1,18 @@
 <?php include('header.php'); ?>
-    <div class="spacer-200"></div>
+    <section style="background-image: url(img/featured-single-midia.jpg);" id="featured-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-title font-merriweather text-white">
+                        <h1>
+                            <img src="img/icon-page-title.svg" alt="" class="img-fluid">
+                            <span>Profissional</span>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="breadcrumbs" class="bg-most-lightest-gray font-open-sans">
 		<div class="container">
 			<div class="row">
@@ -125,8 +138,8 @@
                         </h3>
                         <h4 class="sidebar-subtitle text-light-blue font-open-sans">Áreas de Atuação</h4>
                         <ul class="list-unstyled main-text font-open-sans text-light-gray">
-                            <li>Propriedade Intelectual</li>
-                            <li>Proteção de Dados & Privacidade</li>
+                            <li><a class="text-light-gray text-hover-orange" href="single-expertise.php">Propriedade Intelectual</a></li>
+                            <li><a class="text-light-gray text-hover-orange" href="single-expertise.php">Proteção de Dados & Privacidade</a></li>
                         </ul>
                     </div>
                     <div class="media-block">
@@ -134,27 +147,27 @@
                             <span class="chevron text-orange">&raquo;</span> Mídia
                         </h3>
                         <div class="media-item">
-                            <a href="#" class="media-title font-open-sans text-dark-blue">ECA Digital entra em vigor no Brasil</a>
+                            <a href="single-midia.php" class="media-title font-open-sans text-dark-blue">ECA Digital entra em vigor no Brasil</a>
                             <div class="media-meta mt-1">
                                 <span class="text-light-blue text-uppercase">Novidades</span>
                                 <span class="text-light-gray">17.Mar.2026</span>
                             </div>
                         </div>
                         <div class="media-item">
-                            <a href="#" class="media-title font-open-sans text-dark-blue">Adriana Rollo é a nova sócia das áreas de Propriedade Intelectual, Tecnologia...</a>
+                            <a href="single-midia.php" class="media-title font-open-sans text-dark-blue">Adriana Rollo é a nova sócia das áreas de Propriedade Intelectual, Tecnologia...</a>
                             <div class="media-meta mt-1">
                                 <span class="text-light-blue text-uppercase">Novidades</span>
                                 <span class="text-light-gray">09.Mar.2026</span>
                             </div>
                         </div>
                         <div class="media-item">
-                            <a href="#" class="media-title font-open-sans text-dark-blue">Veirano Advogados amplia presença no Análise Advocacia Mulher 2026</a>
+                            <a href="single-midia.php" class="media-title font-open-sans text-dark-blue">Veirano Advogados amplia presença no Análise Advocacia Mulher 2026</a>
                             <div class="media-meta mt-1">
                                 <span class="text-light-blue text-uppercase">Novidades</span>
                                 <span class="text-light-gray">05.Mar.2026</span>
                             </div>
                         </div>
-                        <a href="#" class="read-all text-orange text-uppercase font-open-sans mt-4 d-inline-block font-weight-bold">
+                        <a href="archive-expertise.php" class="read-all text-orange text-uppercase font-open-sans mt-4 d-inline-block font-weight-bold">
                             — Leia todas as publicações
                         </a>
                     </div>

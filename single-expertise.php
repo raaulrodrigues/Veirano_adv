@@ -1,5 +1,18 @@
 <?php include('header.php'); ?>
-    <div class="spacer-200"></div>
+    <section style="background-image: url(img/featured-single-midia.jpg);" id="featured-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-title font-merriweather text-white">
+                        <h1>
+                            <img src="img/icon-page-title.svg" alt="" class="img-fluid">
+                            <span>Expertise</span>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="breadcrumbs" class="bg-most-lightest-gray font-open-sans">
         <div class="container">
             <div class="row">
@@ -35,8 +48,8 @@
     </section>
     <section id="expertise-content">
         <div class="container">
-            <div class="row">
-                <div class="col-6 offset-1">
+            <div class="row justify-content-between">
+                <div class="col-lg-8">
                     <div class="expertise-info">
                         <h1 class="title font-merriweather text-dark-blue">Agronegócios</h1>
                         <div class="expertise-box-text">
@@ -90,7 +103,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 offset-1 sidebar-right">
+                <div class="col-lg-3 sidebar-right">
                     <div class="expertise-block">
                         <h3 class="sidebar-subtitle font-open-sans text-light-blue">Práticas</h3>
                         <ul class="list-unstyled main-text list-dashed font-open-sans text-light-gray">

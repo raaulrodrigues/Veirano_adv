@@ -1,5 +1,18 @@
 <?php include('header.php'); ?>
-    <div class="spacer-200"></div>
+    <section style="background-image: url(img/featured-single-midia.jpg);" id="featured-page">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="page-title font-merriweather text-white">
+						<h1>
+							<img src="img/icon-page-title.svg" alt="" class="img-fluid">
+							<span>Mídia</span>
+						</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
     <section id="breadcrumbs" class="bg-most-lightest-gray font-open-sans">
 		<div class="container">
 			<div class="row">
@@ -10,7 +23,7 @@
 						<span>></span>
 						<span class="current">Mídia</span>
 						<span>></span>
-						<span class="current">Ataque de estudantes a homem em situação de rua...</span>
+						<span class="current">Título da Notícia</span>
 					</div>
 				</div>
 				<div class="col-lg-3">
@@ -62,7 +75,7 @@
                     <div class="expertise-block">
                         <h3 class="sidebar-title text-light-blue mb-4 font-open-sans">Práticas</h3>
                         <ul class="list-unstyled list-dashed font-open-sans text-gray fw-bold">
-                            <li>Penal Empresarial</li>
+                            <li><a class="text-light-gray text-hover-lightest-gray" href="">Penal Empresarial</a></li>
                         </ul>
                     </div>
                     

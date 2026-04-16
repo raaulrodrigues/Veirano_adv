@@ -150,7 +150,7 @@
 						</p>
 						<p class="phone text-light-gray font-open-sans">+55 21 3824 1320</p>
 						<a href="#" class="email text-light-blue font-open-sans">adriana.rollo@veirano.com.br</a>
-						<a href="#" class="plus-link" aria-label="Ver perfil completo">
+						<a href="single-profissionais.php" class="plus-link text-hover-white bg-hover-petrol-blue" aria-label="Ver perfil completo">
 							<i class="bi bi-plus"></i>
 						</a>
 					</div>
@@ -170,7 +170,7 @@
 						</p>
 						<p class="phone text-light-gray font-open-sans">+55 21 3824 4610</p>
 						<a href="#" class="email text-light-blue font-open-sans">alberto.braganca@veirano.com.br</a>
-						<a href="#" class="plus-link" aria-label="Ver perfil completo">
+						<a href="single-profissionais.php" class="plus-link text-hover-white bg-hover-petrol-blue" aria-label="Ver perfil completo">
 							<i class="bi bi-plus"></i>
 						</a>
 					</div>
@@ -190,7 +190,7 @@
 						</p>
 						<p class="phone text-light-gray font-open-sans">+55 11 2313 5705</p>
 						<a href="#" class="email text-light-blue font-open-sans">alberto.monteiro@veirano.com.br</a>
-						<a href="#" class="plus-link" aria-label="Ver perfil completo">
+						<a href="single-profissionais.php" class="plus-link text-hover-white bg-hover-petrol-blue" aria-label="Ver perfil completo">
 							<i class="bi bi-plus"></i>
 						</a>
 					</div>
@@ -210,7 +210,7 @@
 						</p>
 						<p class="phone text-light-gray font-open-sans">+55 11 2313 5832</p>
 						<a href="#" class="email text-light-blue font-open-sans">alex.backsmann@veirano.com.br</a>
-						<a href="#" class="plus-link" aria-label="Ver perfil completo">
+						<a href="single-profissionais.php" class="plus-link text-hover-white bg-hover-petrol-blue" aria-label="Ver perfil completo">
 							<i class="bi bi-plus"></i>
 						</a>
 					</div>
@@ -230,7 +230,7 @@
 						</p>
 						<p class="phone text-light-gray font-open-sans">+55 11 2313 5727</p>
 						<a href="#" class="email text-light-blue font-open-sans">alexandre.verri@veirano.com.br</a>
-						<a href="#" class="plus-link" aria-label="Ver perfil completo">
+						<a href="single-profissionais.php" class="plus-link text-hover-white bg-hover-petrol-blue" aria-label="Ver perfil completo">
 							<i class="bi bi-plus"></i>
 						</a>
 					</div>
@@ -250,7 +250,7 @@
 						</p>
 						<p class="phone text-light-gray font-open-sans">+55 21 3824 4722</p>
 						<a href="#" class="email text-light-blue font-open-sans">ali.hage@veirano.com.br</a>
-						<a href="#" class="plus-link" aria-label="Ver perfil completo">
+						<a href="single-profissionais.php" class="plus-link text-hover-white bg-hover-petrol-blue" aria-label="Ver perfil completo">
 							<i class="bi bi-plus"></i>
 						</a>
 					</div>
