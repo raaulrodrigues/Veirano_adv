@@ -1,8 +1,21 @@
 <?php include('header.php'); ?>
-    <div class="spacer-200"></div>
+    <section style="background-image: url(img/featured-midia.jpg);" id="featured-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-title font-merriweather text-white">
+                        <h1>
+                            <img src="img/icon-page-title.svg" alt="" class="img-fluid">
+                            <span>Contato</span>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="breadcrumbs" class="bg-most-lightest-gray font-open-sans">
 		<div class="container">
-			<div class="row">
+			<div class="row justify-content-between">
 				<div class="col-lg-9">
 					<div class="bradcrumb">
 						<span>Você está em ></span>
@@ -35,7 +48,7 @@
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row">
-                <div class="col-5 offset-1">
+                <div class="col-lg-5">
                     <div class="contact-info">
                         <h1 class="title font-merriweather text-dark-blue">Fale Conosco</h1>
                         <div class="contact-box-text">

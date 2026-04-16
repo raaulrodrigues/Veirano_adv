@@ -285,8 +285,7 @@ em {
 .main-text h6 {
     margin: 30px 0;
 }
-.main-text a {
-}
+.main-text a {text-decoration: none;color: #002878;font-weight: 600;}
 .main-text a:hover {
 }
 .main-text ul {
@@ -782,6 +781,30 @@ em {
 }
 .wrapper-expertise-cards .expertise-card a:hover span.title {
 }
+.wrapper-offices-cards {
+}
+.wrapper-offices-cards .office-card {
+}
+.wrapper-offices-cards .office-card .wrapper-img {position: relative;}
+.wrapper-offices-cards .office-card .wrapper-img a {display: block;position: relative;overflow: hidden;}
+.wrapper-offices-cards .office-card .wrapper-img a img {display: block;width: 100%;}
+.wrapper-offices-cards .office-card .wrapper-img a div {position: absolute;width: 100%;height: 100%;bottom: 0;z-index: 2;display: flex;align-items: center;justify-content: center;background: #0d3779cc;transition: all ease .5s;transform: translateY(100%);}
+.wrapper-offices-cards .office-card .wrapper-img a div span {}
+.wrapper-offices-cards .office-card .wrapper-img a:hover {
+}
+.wrapper-offices-cards .office-card .wrapper-img a:hover img {
+}
+.wrapper-offices-cards .office-card .wrapper-img a:hover div {transform: translateY(0);}
+.wrapper-offices-cards .office-card .wrapper-img a:hover div span {
+}
+.wrapper-offices-cards .office-card .content {
+}
+.wrapper-offices-cards .office-card .content .location {font-size: 22px;margin: 10px 0;}
+.wrapper-offices-cards .office-card .content .location i {
+}
+.wrapper-offices-cards .office-card .content .location span {
+}
+.wrapper-offices-cards .office-card .content .main-text {line-height: 17px;}
 
 /* Cards */
 

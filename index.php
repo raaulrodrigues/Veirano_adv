@@ -13,7 +13,7 @@
 								<div class="excerpt font-open-sans">
 									<p>Resultado evidencia a expertise do time, o compromisso com a excelência jurídica e a confiança dos clientes.</p>
 								</div>
-								<a href="#" class="know-more-btn text-uppercase text-white">
+								<a href="single-midia.php" class="know-more-btn text-uppercase text-white">
 									<span class="grafism"></span>
 									<span>Saiba Mais</span>
 								</a>
@@ -34,7 +34,7 @@
 								<div class="excerpt font-open-sans">
 									<p>Profissional com mais de 20 anos de experiência reforça a atuação do Escritório em PI, Tecnologia, IA e Inovação.</p>
 								</div>
-								<a href="#" class="know-more-btn text-uppercase text-white">
+								<a href="single-midia.php" class="know-more-btn text-uppercase text-white">
 									<span class="grafism"></span>
 									<span>Saiba Mais</span>
 								</a>
@@ -55,7 +55,7 @@
 								<div class="excerpt font-open-sans">
 									<p>Com 26 menções institucionais e 31 profissionais reconhecidos em 38 categorias, a publicação reforça a excelência e a atuação consistente do nosso time.</p>
 								</div>
-								<a href="#" class="know-more-btn text-uppercase text-white">
+								<a href="single-midia.php" class="know-more-btn text-uppercase text-white">
 									<span class="grafism"></span>
 									<span>Saiba Mais</span>
 								</a>
@@ -76,7 +76,7 @@
 								<div class="excerpt font-open-sans">
 									<p>Promoções reforçam práticas integradas em áreas estratégicas e consolidam a posição do escritório como referência na oferta de soluções jurídicas completas.</p>
 								</div>
-								<a href="#" class="know-more-btn text-uppercase text-white">
+								<a href="single-midia.php" class="know-more-btn text-uppercase text-white">
 									<span class="grafism"></span>
 									<span>Saiba Mais</span>
 								</a>
@@ -97,7 +97,7 @@
 								<div class="excerpt font-open-sans">
 									<p>Veirano lança seu novo Relatório de Sustentabilidade, alinhado aos padrões GRI. Veja os destaques em diversidade, meio ambiente, governança e impacto social.</p>
 								</div>
-								<a href="#" class="know-more-btn text-uppercase text-white">
+								<a href="single-midia.php" class="know-more-btn text-uppercase text-white">
 									<span class="grafism"></span>
 									<span>Saiba Mais</span>
 								</a>
@@ -253,7 +253,7 @@
 							<div class="col-lg-8 d-flex flex-wrap wrapper-midia-cards">
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -272,12 +272,12 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -296,14 +296,14 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-4 d-flex flex-wrap wrapper-midia-cards-model-2">
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Direito Público e Regulação | Abril de 2026</a>
+										<a class="text-dark-blue" href="single-midia.php">Direito Público e Regulação | Abril de 2026</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -314,12 +314,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
+										<a class="text-dark-blue" href="single-midia.php">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -330,7 +330,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
@@ -346,12 +346,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
+										<a class="text-dark-blue" href="single-midia.php">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -362,7 +362,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
@@ -375,7 +375,7 @@
 							<div class="col-lg-8 d-flex flex-wrap wrapper-midia-cards">
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -394,12 +394,12 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -418,14 +418,14 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-4 d-flex flex-wrap wrapper-midia-cards-model-2">
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Direito Público e Regulação | Abril de 2026</a>
+										<a class="text-dark-blue" href="single-midia.php">Direito Público e Regulação | Abril de 2026</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -436,12 +436,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
+										<a class="text-dark-blue" href="single-midia.php">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -452,7 +452,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
@@ -468,12 +468,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
+										<a class="text-dark-blue" href="single-midia.php">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -484,7 +484,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
@@ -497,7 +497,7 @@
 							<div class="col-lg-8 d-flex flex-wrap wrapper-midia-cards">
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -516,12 +516,12 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -540,14 +540,14 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-4 d-flex flex-wrap wrapper-midia-cards-model-2">
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Direito Público e Regulação | Abril de 2026</a>
+										<a class="text-dark-blue" href="single-midia.php">Direito Público e Regulação | Abril de 2026</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -558,12 +558,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
+										<a class="text-dark-blue" href="single-midia.php">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -574,7 +574,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
@@ -590,12 +590,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
+										<a class="text-dark-blue" href="single-midia.php">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -606,7 +606,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
@@ -619,7 +619,7 @@
 							<div class="col-lg-8 d-flex flex-wrap wrapper-midia-cards">
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -638,12 +638,12 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -662,14 +662,14 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-4 d-flex flex-wrap wrapper-midia-cards-model-2">
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Direito Público e Regulação | Abril de 2026</a>
+										<a class="text-dark-blue" href="single-midia.php">Direito Público e Regulação | Abril de 2026</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -680,12 +680,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
+										<a class="text-dark-blue" href="single-midia.php">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -696,7 +696,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
@@ -712,12 +712,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
+										<a class="text-dark-blue" href="single-midia.php">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -728,7 +728,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
@@ -741,7 +741,7 @@
 							<div class="col-lg-8 d-flex flex-wrap wrapper-midia-cards">
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -760,12 +760,12 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="midia-card col-lg-6 ps-2 pe-2">
 									<div class="wrapper-img">
-										<a href="#">
+										<a href="single-midia.php">
 											<img src="img/placeholder-midia.jpg" alt="" class="img-fluid">
 										</a>
 									</div>
@@ -784,14 +784,14 @@
 										<div class="excerpt text-light-gray">
 											<p>Distância mínima obrigatória de 22 km da costa pode inviabilizar projetos de eólicas offshore, de...</p>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-4 d-flex flex-wrap wrapper-midia-cards-model-2">
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Direito Público e Regulação | Abril de 2026</a>
+										<a class="text-dark-blue" href="single-midia.php">Direito Público e Regulação | Abril de 2026</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -802,12 +802,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
+										<a class="text-dark-blue" href="single-midia.php">Veirano Advogados anuncia novo sócio na área Tributária em Porto Alegre</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -818,7 +818,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
@@ -834,12 +834,12 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 								<div class="col-12 midia-card-model-2">
 									<div class="title">
-										<a class="text-dark-blue" href="#">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
+										<a class="text-dark-blue" href="single-midia.php">Inconstitucionalidade da tributação pelo IRRF sobre lucros capitalizados</a>
 									</div>
 									<div class="content">
 										<div class="post-info">
@@ -850,7 +850,7 @@
 												<p>07.abr.2026</p>
 											</div>
 										</div>
-										<a href="#" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
+										<a href="single-midia.php" class="read-more-btn text-orange text-uppercase"><b>Leia Mais</b></a>
 									</div>
 								</div>
 							</div>
@@ -922,7 +922,7 @@
 						</div>
 					</div>
 					<div class="spacer-30"></div>
-					<a href="#" class="read-more-btn text-orange text-uppercase">SAIBA MAIS SOBRE NOSSO ESCRITÓRIO</a>                    
+					<a href="page-escritorio.php" class="read-more-btn text-orange text-uppercase">SAIBA MAIS SOBRE NOSSO ESCRITÓRIO</a>                    
 					<div class="spacer-50"></div>
 				</div>
 			</div>
@@ -948,57 +948,57 @@
 						<p><b>Áreas de Atuação</b></p>
 					</div>
 					<div class="col-lg-4 expertise-card">
-				        <a href="#"><span></span><span class="title">Agronegócios</span></a>
-				        <a href="#"><span></span><span class="title">Ambiental</span></a>
-				        <a href="#"><span></span><span class="title">Antitruste & Concorrencial</span></a>
-				        <a href="#"><span></span><span class="title">Arte & Cultura</span></a>
-				        <a href="#"><span></span><span class="title">Aviação & Financiamento Aeronáutico</span></a>
-				        <a href="#"><span></span><span class="title">Bancário & Financeiro</span></a>
-				        <a href="#"><span></span><span class="title">Blockchain & Ativos Digitais (CryptoVA)</span></a>
-				        <a href="#"><span></span><span class="title">Cibercrimes (VA Response)</span></a>
-				        <a href="#"><span></span><span class="title">Comércio Exterior / OMC</span></a>
-				        <a href="#"><span></span><span class="title">Companhias Abertas e Governança Corporativa</span></a>
-				        <a href="#"><span></span><span class="title">Compliance & Investigações</span></a>
-				        <a href="#"><span></span><span class="title">Contratos Comerciais</span></a>
-				        <a href="#"><span></span><span class="title">Direito do Consumidor & Product Liability</span></a>
-				        <a href="#"><span></span><span class="title">Naval/Marítimo & Portuário</span></a>
-				        <a href="#"><span></span><span class="title">ESG - Ambiental, Social e Governança</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Agronegócios</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Ambiental</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Antitruste & Concorrencial</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Arte & Cultura</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Aviação & Financiamento Aeronáutico</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Bancário & Financeiro</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Blockchain & Ativos Digitais (CryptoVA)</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Cibercrimes (VA Response)</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Comércio Exterior / OMC</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Companhias Abertas e Governança Corporativa</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Compliance & Investigações</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Contratos Comerciais</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Direito do Consumidor & Product Liability</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Naval/Marítimo & Portuário</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">ESG - Ambiental, Social e Governança</span></a>
 				    </div>
 
 				    <div class="col-lg-4 expertise-card">
-				        <a href="#"><span></span><span class="title">Esportes</span></a>
-				        <a href="#"><span></span><span class="title">Fashion Law</span></a>
-				        <a href="#"><span></span><span class="title">Fundos de Investimento e Asset Management</span></a>
-				        <a href="#"><span></span><span class="title">Gerenciamento de Crise</span></a>
-				        <a href="#"><span></span><span class="title">Global Mobility</span></a>
-				        <a href="#"><span></span><span class="title">Infraestrutura & Projetos</span></a>
-				        <a href="#"><span></span><span class="title">Insolvência & Reestruturação</span></a>
-				        <a href="#"><span></span><span class="title">Jogos & Apostas</span></a>
-				        <a href="#"><span></span><span class="title">Life Sciences & Healthcare</span></a>
-				        <a href="#"><span></span><span class="title">Mercado de Capitais</span></a>
-				        <a href="#"><span></span><span class="title">Mercado Imobiliário</span></a>
-				        <a href="#"><span></span><span class="title">Mídia & Entretenimento</span></a>
-				        <a href="#"><span></span><span class="title">Mineração & Metais</span></a>
-				        <a href="#"><span></span><span class="title">Energia Elétrica</span></a>
-				        <a href="#"><span></span><span class="title">Petróleo, Gás & Biocombustíveis</span></a>
-				        <a href="#"><span></span><span class="title">Planejamento Patrimonial, Sucessório & Direito de Família</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Esportes</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Fashion Law</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Fundos de Investimento e Asset Management</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Gerenciamento de Crise</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Global Mobility</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Infraestrutura & Projetos</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Insolvência & Reestruturação</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Jogos & Apostas</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Life Sciences & Healthcare</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Mercado de Capitais</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Mercado Imobiliário</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Mídia & Entretenimento</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Mineração & Metais</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Energia Elétrica</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Petróleo, Gás & Biocombustíveis</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Planejamento Patrimonial, Sucessório & Direito de Família</span></a>
 				    </div>
 
 				    <div class="col-lg-4 expertise-card">
-				        <a href="#"><span></span><span class="title">Private Equity</span></a>
-				        <a href="#"><span></span><span class="title">Propriedade Intelectual</span></a>
-				        <a href="#"><span></span><span class="title">Proteção de Dados & Privacidade</span></a>
-				        <a href="#"><span></span><span class="title">Resolução de Conflitos - Arbitragem</span></a>
-				        <a href="#"><span></span><span class="title">Resolução de Conflitos - Contencioso</span></a>
-				        <a href="#"><span></span><span class="title">Seguros, Resseguros & Previdência Complementar</span></a>
-				        <a href="#"><span></span><span class="title">Societário & Fusões e Aquisições</span></a>
-				        <a href="#"><span></span><span class="title">Tecnologia da Informação & Comunicações</span></a>
-				        <a href="#"><span></span><span class="title">Terceiro Setor</span></a>
-				        <a href="#"><span></span><span class="title">Trabalhista</span></a>
-				        <a href="#"><span></span><span class="title">Tributário & Aduaneiro</span></a>
-				        <a href="#"><span></span><span class="title">Venture Capital & Startups</span></a>
-				        <a href="#"><span></span><span class="title">Direito Público & Regulação</span></a>
-				        <a href="#"><span></span><span class="title">Penal Empresarial</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Private Equity</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Propriedade Intelectual</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Proteção de Dados & Privacidade</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Resolução de Conflitos - Arbitragem</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Resolução de Conflitos - Contencioso</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Seguros, Resseguros & Previdência Complementar</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Societário & Fusões e Aquisições</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Tecnologia da Informação & Comunicações</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Terceiro Setor</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Trabalhista</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Tributário & Aduaneiro</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Venture Capital & Startups</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Direito Público & Regulação</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">Penal Empresarial</span></a>
 				    </div>
 				</div>
 				<div class="col-lg-5 d-flex flex-wrap flex-column wrapper-expertise-cards">
@@ -1006,13 +1006,13 @@
 						<p><b>Desks</b></p>
 					</div>
 					<div class="col-12 expertise-card">
-				        <a href="#"><span></span><span class="title">China Desk</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">China Desk</span></a>
 				    </div>
 					<div class="col-12 expertise-card">
-				        <a href="#"><span></span><span class="title">French Desk</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">French Desk</span></a>
 				    </div>
 					<div class="col-12 expertise-card">
-				        <a href="#"><span></span><span class="title">German Desk</span></a>
+				        <a href="single-expertise.php"><span></span><span class="title">German Desk</span></a>
 				    </div>
 				</div>
 			</div>
@@ -1041,7 +1041,7 @@
 						<p>Pluralidade e criatividade são dois valores do Escritório que estão diretamente ligados à diversidade, tema altamente importante que passamos a trabalhar com mais foco em anos recentes.</p>
 					</div>
 					<div class="spacer-30"></div>
-					<a href="#" class="read-more-btn text-orange text-uppercase"><b>SAIBA MAIS SOBRE D&I NO VEIRANO</b></a>                    
+					<a href="page-escritorio.php" class="read-more-btn text-orange text-uppercase"><b>SAIBA MAIS SOBRE D&I NO VEIRANO</b></a>                    
 					<div class="spacer-200"></div>
 				</div>
 				<div class="col-lg-2"></div>

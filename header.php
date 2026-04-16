@@ -93,16 +93,16 @@
                                 </ul>
                             </li>
                             <li class="has-submenu">
-                                <a href="page-contato.php">Contato <i class="bi bi-caret-down-fill"></i></a>
+                                <a href="page-fale-conosco.php">Contato <i class="bi bi-caret-down-fill"></i></a>
                                 <ul class="submenu">
                                     <li>
-                                        <a href="#">Fale Conosco</a>
+                                        <a href="page-fale-conosco.php">Fale Conosco</a>
                                     </li>
                                     <li>
-                                        <a href="#">Assessoria de Imprensa</a>
+                                        <a href="page-assessoria-de-imprensa.php">Assessoria de Imprensa</a>
                                     </li>
                                     <li>
-                                        <a href="#">Escritórios</a>
+                                        <a href="page-escritorios.php">Escritórios</a>
                                     </li>
                                 </ul>
                             </li>
