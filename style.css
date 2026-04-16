@@ -323,7 +323,7 @@ em {
     margin-bottom: 15px;
 }
 .main-text>*:last-child {
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 .text-left {
     text-align: left;

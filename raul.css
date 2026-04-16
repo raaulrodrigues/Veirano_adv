@@ -226,6 +226,23 @@
     color: #002878 !important;
 }
 
+.action-links {
+    gap: 8px;
+    margin-bottom: 49px;
+}
+.action-links a {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.action-links a:hover{
+    color: #5aa0eb !important;
+}
+.action-links a .icon-bracket {
+    color: #5aa0eb;
+}
 
 /* Single Profissional */
 

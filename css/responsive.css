@@ -1,0 +1,77 @@
+@media screen and (max-width: 1280px) {}
+@media screen and (max-width: 991px) {}
+@media screen and (max-width: 768px) {
+    .team-search-box .form-filters>div {
+        margin-bottom: 20px;
+    }
+    .title-name{
+        font-size: 34px;
+        line-height: 1.1;
+    }
+    .title {
+        font-size: 16px;
+        line-height: 1.1;
+    }
+}
+@media screen and (max-width: 500px) {
+    .team-search-box .form-filters>div {
+        margin-bottom: 20px;
+    }
+    .team-search-box .wrapper-categories {
+        justify-content: center;
+    }
+    .wrapper-team-cards .team-card {
+        margin-bottom: 20px;
+    }
+    .wrapper-team-cards .team-card .wrapper-img {
+        width: 110px; 
+    }
+    .wrapper-team-cards .team-card .wrapper-img a img {
+        width: 100% !important; 
+        min-width: 100% !important; 
+        height: 100% !important;
+        object-fit: cover;
+    }
+    .wrapper-team-cards .team-card .post-info {
+        padding: 15px 10px 15px 15px; 
+    }
+    .wrapper-team-cards .team-card .post-info .title {
+        font-size: 21px; 
+        line-height: 1.2;
+        margin-bottom: 8px; 
+    }
+    .wrapper-team-cards .team-card .post-info .position,
+    .wrapper-team-cards .team-card .post-info .location,
+    .wrapper-team-cards .team-card .post-info .phone,
+    .wrapper-team-cards .team-card .post-info a.email {
+        font-size: 13px; 
+        margin: 3px 0;
+    }
+    .wrapper-team-cards .team-card .post-info a.email {
+        word-break: break-all;
+    }
+    .wrapper-team-cards .team-card .post-info .plus-link {
+        width: 36px;
+        height: 36px;
+    }
+    .wrapper-team-cards .team-card .post-info .plus-link i {
+        top: 14px;
+        left: 14px;
+        font-size: 18px;
+    }
+    .title-name{
+        font-size: 34px;
+        line-height: 1.1;
+    }
+    .title {
+        font-size: 16px;
+        line-height: 1.1;
+    }
+    .divisor {
+       width: 20px; 
+       height: 2px; 
+    }
+    .wrapper-expertise-cards{
+        font-size: 15px;
+    }
+}

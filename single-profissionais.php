@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
     <section style="background-image: url(img/featured-single-midia.jpg);" id="featured-page">
         <div class="container">
-            <div class="row">
+            <div class="row ">
                 <div class="col-12">
                     <div class="page-title font-merriweather text-white">
                         <h1>
@@ -51,9 +51,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 profile-sidebar-left">
-                    <div class="profile-img-wrapper">
-                        <img src="img/profissional-adriana-fernandes.jpg" alt="">
-                        <a href="#" class="vcard-btn bg-dark-blue bg-hover-orange text-white text-uppercase font-open-sans">
+                    <div class="d-block d-lg-none mb-3">
+                        <h1 class="title-name font-merriweather text-dark-blue mb-1">Adriana Fernandes Rollo</h1>
+                        <span class="divisor bg-orange d-block""></span>
+                        <p class="position text-light-gray font-open-sans mb-0">Sócia</p>
+                    </div>
+                    <div class="profile-img-wrapper mb-4">
+                        <img src="img/profissional-adriana-fernandes.jpg" alt="" class="img-fluid w-100 d-block"> 
+                        <a href="#" class="vcard-btn bg-dark-blue bg-hover-orange text-white text-uppercase font-open-sans text-decoration-none">
                             <span class="icon-bracket"><i class="bi bi-dash"></i></span> Baixar vCard
                         </a>
                     </div>
@@ -73,10 +78,19 @@
                             <li class="text-light-gray">Português</li>
                         </ul>
                     </div>
+                    <div class="spacer-50"></div>
+                    <div class="action-links d-flex d-lg-none gap-4">
+                        <a href="#" class="text-light-gray font-open-sans text-uppercase">
+                            <span class="icon-bracket"><i class="bi bi-dash"></i></span> Imprimir
+                        </a>
+                        <a href="#" class="text-light-gray font-open-sans text-uppercase">
+                            <span class="icon-bracket"><i class="bi bi-dash"></i></span> Baixar PDF
+                        </a>
+                    </div>
                 </div>       
                 <div class="col-lg-5 profile-main-content">
-                    <p class="position text-light-blue text-uppercase font-open-sans">Sócia</p>
-                    <h1 class="title font-merriweather text-dark-blue">Adriana Fernandes Rollo</h1>
+                    <p class="d-none d-lg-flex position text-light-blue text-uppercase font-open-sans">Sócia</p>
+                    <h1 class="d-none d-lg-flex title-name font-merriweather text-dark-blue">Adriana Fernandes Rollo</h1>
                     <div class="professional-bio font-open-sans text-light-gray">
                         <p>Adriana é sócia do Veirano Advogados e possui vasta experiência em consultoria jurídica envolvendo temas de Propriedade Intelectual, Inteligência Artificial, Contratos, Transações Tecnológicas, Direito Digital, Saúde, Franquias, Mídia e Entretenimento, Tecnologia da Informação, Transações Comerciais, Internet, Direito dos Jogos e Esportes Eletrônicos, Proteção de Dados e Privacidade.</p>
                         <p>Adriana é graduada pela Universidade Presbiteriana Mackenzie, pós-graduada em Direito Contratual pelo CEU Law School e obteve o título de Mestre (LL.M) em Propriedade Intelectual pela Queen Mary University of London (Reino Unido). </p>
@@ -124,7 +138,7 @@
                 </div>
                 
                 <div class="col-lg-4 sidebar-right">
-                    <div class="action-links d-flex flex-column">
+                    <div class="action-links d-none d-lg-flex flex-column">
                         <a href="#" class="text-light-gray font-open-sans text-uppercase">
                             <span class="icon-bracket"><i class="bi bi-dash"></i></span> Imprimir
                         </a>

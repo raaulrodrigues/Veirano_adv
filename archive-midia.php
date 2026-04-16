@@ -55,9 +55,9 @@
 						<h2>Pesquise nossas notícias</h2>
 					</div>
 				</div>
-				<div class="col-lg-8">
-					<form action="archive-profissionais.php" class="d-flex form-filters white-background">
-						<div class="col-lg">
+				<div class="col-12 col-lg-8">
+					<form action="archive-profissionais.php" class="d-block d-lg-flex form-filters white-background">
+						<div class="col-lg mt-lg-0 mt-3">
 							<select name="cargo">
 								<option selected disabled value="">Ano</option>
 							</select>

@@ -2,7 +2,7 @@
         <div class="spacer-50"></div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-9 d-flex flex-wrap">
+                <div class="col-lg-9 d-block d-lg-flex flex-wrap">
                     <div class="col-lg-3 wrapper-addresses-cards">
                         <div class="address-card">
                             <p class="state text-light-blue text-uppercase">Rio de Janeiro</p>
@@ -44,11 +44,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 d-flex flex-column align-items-end">
-                    <div class="w-100 wrapper-logo">
+                <div class="col-lg-3 d-flex flex-column align-items-center align-items-lg-end">
+                    <div class="w-50 w-lg-100 wrapper-logo text-center text-lg-end">
                         <img src="img/logo-veirano.svg" alt="" class="img-fluid">
                     </div>
-                    <div class="w-100 wrapper-socials d-flex justify-content-end">
+                    <div class="w-100 wrapper-socials d-flex justify-content-center justify-content-lg-end">
                         <a class="col-auto text-white text-hover-orange" target="_blank" href="https://www.linkedin.com/company/veirano-advogados">
                             <i class="bi bi-linkedin"></i>
                         </a>
@@ -64,21 +64,21 @@
                     </div>
                 </div>
             </div>
-            <div class="row copyright">
-                <div class="col-lg-5">
-                    <div class="main-text text-white">
+            <div class="row copyright text-center justify-content-center">
+                <div class="col-12 col-lg-5">
+                    <div class="main-text text-white mt-3 mt-lg-0 mb-3 mb-lg-0">
                         <p>© 2026 Veirano Advogados. Todos os direitos reservados.</p>
                     </div>
                 </div>
-                <div class="col-lg-7 d-flex justify-content-end footer-links">
+                <div class="col-5 col-lg-7 d-block d-lg-flex justify-content-center justify-content-lg-end footer-links">
                     <a class="text-white text-hover-orange" href="#">Política de Segurança</a>
-                    <a class="text-white text-hover-orange ms-5" href="#">Política de Privacidade</a>
-                    <a class="text-white text-hover-orange ms-5" href="#">Política de Cookies</a>
-                    <a class="text-white text-hover-orange ms-5" href="#">Termos de Uso</a>
+                    <a class="text-white text-hover-orange ms-lg-5" href="#">Política de Privacidade</a>
+                    <a class="text-white text-hover-orange ms-lg-5" href="#">Política de Cookies</a>
+                    <a class="text-white text-hover-orange ms-lg-5" href="#">Termos de Uso</a>
                 </div>
             </div>
             <div class="spacer-20"></div>
-            <div class="row developed-by justify-content-end">
+            <div class="row developed-by justify-content-center justify-content-lg-end">
                 <div class="col-auto">
                     <a target="_blank" href="https://www.simbiox.com.br/">
                         <span>Desenvolvido por</span>

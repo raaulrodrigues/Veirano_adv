@@ -61,26 +61,26 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-12 col-lg-6">
                     <form class="contact-form">
-                        <div class="form-group mb-3">
+                        <div class="form-group mb-4">
                             <input type="text" class="form-control custom-input font-open-sans" placeholder="Nome*">
                         </div>
-                        <div class="form-group mb-3">
+                        <div class="form-group mb-4">
                             <input type="email" class="form-control custom-input font-open-sans" placeholder="E-mail*">
                         </div>
-                        <div class="row mb-3">
-                            <div class="col-md-6">
+                        <div class="row mb-4">
+                            <div class="col-md-6 mb-4">
                                 <input type="tel" class="form-control custom-input font-open-sans" placeholder="Telefone">
                             </div>
                             <div class="col-md-6">
                                 <input type="text" class="form-control custom-input font-open-sans" placeholder="Cargo">
                             </div>
                         </div>
-                        <div class="form-group mb-3">
+                        <div class="form-group mb-4">
                             <input type="text" class="form-control custom-input font-open-sans" placeholder="Empresa">
                         </div>
-                        <div class="form-group mb-3">
+                        <div class="form-group mb-4">
                             <select class="form-control custom-input custom-select font-open-sans">
                                 <option value="" disabled selected hidden>Assunto*</option>
                                 <option value="duvida">Cibercrimes (VA Response)</option>

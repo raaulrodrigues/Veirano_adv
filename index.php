@@ -137,7 +137,7 @@
 						<h2>Pesquise nossos profissionais</h2>
 					</div>
 				</div>
-				<div class="col-lg-8">
+				<div class="col-12 col-lg-8">
 					<div class="wrapper-categories">
 						<div class="categories">
 							<a href="archive-profissionais.php">Sócios</a>
@@ -176,26 +176,26 @@
 						<a href="archive-profissionais.php">y</a>
 						<a href="archive-profissionais.php">z</a>
 					</div>
-					<form action="archive-profissionais.php" class="d-flex form-filters">
-						<div class="col-lg">
+					<form action="archive-profissionais.php" class="d-block d-lg-flex form-filters">
+						<div class="col-12 col-lg">
 							<input type="text" placeholder="Profissional">
 						</div>
-						<div class="col-lg">
+						<div class="col-12 col-lg">
 							<select name="cargo">
 								<option selected disabled value="">Cargo</option>
 							</select>
 						</div>
-						<div class="col-lg">
+						<div class="col-12 col-lg">
 							<select name="area">
 								<option selected disabled value="">Área</option>
 							</select>
 						</div>
-						<div class="col-lg">
+						<div class="col-12 col-lg">
 							<select name="idioma">
 								<option selected disabled value="">Idioma</option>
 							</select>
 						</div>
-						<div class="col-lg">
+						<div class="col-12 col-lg">
 							<select name="unidade">
 								<option selected disabled value="">Unidade</option>
 							</select>
@@ -1021,7 +1021,7 @@
 	</section>
 	<section id="stay-in" class="bg-most-lightest-gray">
 		<div class="container">
-			<div class="row">
+			<div class="row d-none d-lg-flex ">
 				<div class="col-lg-6">
 					<img src="img/img-veirano-inclusiva-2025.jpg" alt="" class="bg-image">
 				</div>
@@ -1043,6 +1043,30 @@
 					<div class="spacer-30"></div>
 					<a href="page-escritorio.php" class="read-more-btn text-orange text-uppercase"><b>SAIBA MAIS SOBRE D&I NO VEIRANO</b></a>                    
 					<div class="spacer-200"></div>
+				</div>
+				<div class="col-lg-2"></div>
+			</div>
+			<div class="row d-flex d-lg-none align-items-center">
+				<div class="col-12 col-lg-6 p-0 p-lg-3"> 
+					<img src="img/img-veirano-inclusiva-2025.jpg" alt="" class="img-fluid w-100 mb-4 mb-lg-0" style="object-fit: cover; min-height: 300px;">
+				</div>
+				<div class="col-12 col-lg-4 offset-lg-1 pb-5 pb-lg-0"> 
+					<div class="spacer-50 d-none d-lg-block"></div> <div class="title-wrapper">
+						<div class="sup-title text-dark-blue orange-graf">
+							<p>Fique por dentro</p>
+						</div>
+						<div class="main-title text-dark-blue">
+							<h2>InclusiVA</h2>
+							<span class="subtitle text-light-blue"><em>Diversidade & Inclusão</em></span>
+						</div>
+					</div>	
+					<div class="spacer-30"></div>
+					<div class="main-text text-light-gray title-light-gray">
+						<p>Pluralidade e criatividade são dois valores do Escritório que estão diretamente ligados à diversidade, tema altamente importante que passamos a trabalhar com mais foco em anos recentes.</p>
+					</div>
+					<div class="spacer-30"></div>
+					<a href="page-escritorio.php" class="read-more-btn text-orange text-uppercase"><b>SAIBA MAIS SOBRE D&I NO VEIRANO</b></a>
+					<div class="spacer-100 d-none d-lg-block"></div> </div>
 				</div>
 				<div class="col-lg-2"></div>
 			</div>

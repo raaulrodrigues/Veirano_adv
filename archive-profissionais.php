@@ -94,7 +94,7 @@
 						<a href="archive-profissionais.php">y</a>
 						<a href="archive-profissionais.php">z</a>
 					</div>
-					<form action="archive-profissionais.php" class="d-flex form-filters">
+					<form action="archive-profissionais.php" class="d-block d-lg-flex form-filters">
 						<div class="col-lg">
 							<input type="text" placeholder="Profissional">
 						</div>
